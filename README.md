@@ -1,8 +1,8 @@
-## 멀티캠퍼스8회차 4조(이게 왜 되죠?) 첫 번째 프로젝트
-# 오늘 날씨 어때?
+# 멀티캠퍼스8회차 4조(이게 왜 되죠?) 첫 번째 프로젝트
+## 오늘 날씨 어때?
 
 ### ✈️ 소개
-![intention](https://user-images.githubusercontent.com/96780311/165444630-f3ac1235-5fe0-4be6-b2e6-a0e4e759ad5f.png)
+<img width="80%" src="https://user-images.githubusercontent.com/96780311/165444630-f3ac1235-5fe0-4be6-b2e6-a0e4e759ad5f.png"/>
 
     
 ### 🛠 기능 요약
