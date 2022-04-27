@@ -4,12 +4,8 @@
 ### ✈️ 소개
 <img width="50%" src="https://user-images.githubusercontent.com/96780311/165444630-f3ac1235-5fe0-4be6-b2e6-a0e4e759ad5f.png"/>
 
-    
-### 🛠 기능 요약
-
-
 ### ⏰ 개발 기간
-
+2022년 4월 5일 → 2022년 4월 21일
 
 ### 👩‍💻 멤버 구성
 - 서범석(팀장)
@@ -24,9 +20,6 @@
 - Java, Spring, MyBatis
 - Mysql, Apache Tomcat
 - GitHub, Spring Tools4
-
-### 📌 기술 선택 이유 
-
 
 ### 📌 주요 기능
  
