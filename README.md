@@ -22,7 +22,7 @@
 - GitHub, Spring Tools4
 
 ### 📌 주요 기능
-    <ul>
+   <ul>
       <li>
         회원관리
         <ul>
